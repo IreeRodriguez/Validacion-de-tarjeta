@@ -1,1 +1,1 @@
-# Validacion-de-tarjeta
+Pseudocodigo
