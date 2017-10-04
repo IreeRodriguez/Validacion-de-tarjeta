@@ -8,3 +8,5 @@ Pseudocodigo
 -sumar todos los numeros, tanto lso impares como los pares multiplicados.
 -si el resultado modulo de 10 es igual a 0 es una tarjeta valida.
 -si el resutlado modulo de 10 no es igual a 0, es una tarjeta invalida.
+
+![alt text](https://raw.githubusercontent.com/IreeRodriguez/Validacion-de-tarjeta/master/flowchart.JPG)
