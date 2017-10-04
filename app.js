@@ -1,4 +1,4 @@
-var isValidCard = function (str){ //funcion que valida el campo insertado y si el numero de tarjeta es valido segun el algoritmo de Luhn
+var isValidCard = function (){ //funcion que valida el campo insertado y si el numero de tarjeta es valido segun el algoritmo de Luhn
     var userInput = '';
     var letras = /\D/;
     var result = 0;
